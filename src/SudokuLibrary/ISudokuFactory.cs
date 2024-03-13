@@ -1,4 +1,4 @@
-﻿namespace SudokuLibrary.src;
+﻿namespace SudokuLibrary;
 
 /// <summary>
 /// Sudoku factorys are responsible for creating a specific kind of

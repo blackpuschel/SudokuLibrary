@@ -1,4 +1,4 @@
-﻿namespace SudokuLibrary.src;
+﻿namespace SudokuLibrary;
 
 /// <summary>
 /// A Sudokus difficulty can be judged in many subjective ways. To

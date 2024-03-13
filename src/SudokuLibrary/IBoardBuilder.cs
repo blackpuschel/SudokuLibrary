@@ -1,11 +1,11 @@
-﻿namespace SudokuLibrary.src;
+﻿namespace SudokuLibrary;
 
 /// <summary>
-/// A Builder interface for creating a square Sudoku board.
+/// A Builder interface for creating a common Sudoku board.
 /// The size of the board is the responsibility of the
 /// specific inplementations.
 /// </summary>
-internal interface ISquareBoardBuilder
+internal interface IBoardBuilder
 {
     /// <summary>
     /// Build a square board based on the standard Sudoku rule set.
